@@ -21,6 +21,12 @@
    fees: Free / 1%
    img: /images/company/coinbase-small.png 
    url: https://www.coinbase.com/merchants?locale=en 
+   
+ - company: CoinGate
+   description: CoinGate allows merchants to receive Bitcoin payments using a range of tools: plugins for e-commerce platforms, customizable API, Point of Sale apps, and payment buttons. Additionally, the customers can pay CoinGate invoices with over 40 Altcoins via ShapeShift integration without causing hassles to the merchant, converting any payment to bitcoins automatically. CoinGate also boasts an extended functionality of its invoice system, allowing merchants to extend invoice expiration time as well as to automatically accept underpayments (partial payments) up to a desired threshold.
+   fees: 1% (no hidden fees/margins)
+   img: coingate.png 
+   url: https://coingate.com/accept-bitcoin
     
  - company: Stripe
    description: Merchants using Stripe can enable Bitcoin payments in a few minutes. While Stripe charges  2.9% + 30¢ per credit card transaction, each successful Bitcoin payment costs just 0.8% with a max fee of $5.
